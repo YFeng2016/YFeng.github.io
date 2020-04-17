@@ -1,15 +1,19 @@
 @charset "utf-8";
 /* CSS Document */
+@font-face {
+    font-family: MyFont;
+    src: url(../fonts/Satriana.ttf);
+}
 body{
 	font-size:14px;
-	font-family:Arial,Verdana,Tahoma,"微软雅黑","黑体";
+	font-family:"微软雅黑","黑体";
 	line-height:1.2em;
 	background:#ADD8E6;
 	margin:0;
 	overflow-x:hidden;
 }
 h1{
-	font-family:"css/abdealijamali_jhatka.ttf";
+	font-family:MyFont;
 	text-align:center;
 	color: #696969;
 }
