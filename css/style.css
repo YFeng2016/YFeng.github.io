@@ -8,6 +8,7 @@ body{
 	font-size:14px;
 	font-family:"微软雅黑","黑体";
 	line-height:1.2em;
+	color: #696969;
 	background:#ADD8E6;
 	margin:0;
 	overflow-x:hidden;
@@ -15,11 +16,10 @@ body{
 h1{
 	font-family:MyFont;
 	text-align:center;
-	color: #ffffff;
+	color: #121212;
 }
 p{
 	text-align:center;
-	color: #696969;
 }
 img{
 	vertical-align:middle;
