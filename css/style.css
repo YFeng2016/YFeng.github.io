@@ -17,13 +17,28 @@ body{
 	margin:0;
 	overflow-x:hidden;
 }
+body div.main{
+    
+    background:#BBDDE0;
+    width: 1000px;
+    margin: 50px auto;
+    border: 20px solid #DDEEFF;
+    padding: 0;
+}
+div.main0{
+    background: #90D8FB;
+}
 span{
 	color:#93a2a9;
 }
 h1{
-	font-family:MyFont;
-	text-align:center;
-	color: #121212;
+    font-family: MyFont;
+    text-align: center;
+    color: #121212;
+    display: block; 
+    border: 0; 
+    padding: 0;
+    margin:10px 0;
 }
 p{
 	text-align:center;
