@@ -20,9 +20,9 @@ body{
 body div.main{
     
     background:#BBDDE0;
-    width: 1000px;
+    width: auto;
     margin: 50px auto;
-    border: 20px solid #DDEEFF;
+    border: 2px solid #DDEEFF;
     padding: 0;
 }
 div.main0{
