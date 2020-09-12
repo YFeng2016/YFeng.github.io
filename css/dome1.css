@@ -1,0 +1,36 @@
+/* CSS Document */
+
+body{
+    background: rgba(104,247,218,1.00);
+}
+div{
+    background: pink;
+    width: 450px;
+    height: 600px;
+    float: left;
+    margin: 15px 20px;
+    text-align: center;
+    border: medium outset white;
+}
+div img{
+    display:inline-block;
+    width: 400px;
+    padding: 0;
+    border: 0;
+    margin: 40px 0 10px; 
+}
+div p{
+    display: block;
+    text-align: left;
+    font: normal 20px/36px "宋体";
+    width: 360px;
+    padding: 0;
+    border: 0;
+    margin: 20px 40px 5px 40px;
+}
+div em{
+    display: block;
+    float: right;
+    font-weight: bold;
+    margin: 0 20px;
+}
